@@ -1,8 +1,8 @@
 {
-  "name": "vmess or vles",
-  "description": "vmess or vles",
+  "name": "gfdhkhl",
+  "description": "gfdhkhl",
   "keywords": [
-    "vmess or vles"
+    "gfdhkhl"
   ],
   "env": {
     "PROTOCOL": {
@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/louyour/nginx-Manual",
-  "repository": "https://github.com/louyour/nginx-Manual",
+  "website": "https://github.com/tyuyiuop/cn-danll",
+  "repository": "https://github.com/tyuyiuop/cn-danll",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
